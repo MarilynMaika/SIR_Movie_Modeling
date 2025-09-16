@@ -108,5 +108,5 @@ a viral hit — popularity spikes fast but also fades fast due to saturation.
 ## ▶ How to Run
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/tv-show-sir-model.git
+   git clone https://github.com/MarilynMaika/SIR_Movie_Modeling.git
    
